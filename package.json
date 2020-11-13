@@ -28,7 +28,7 @@
     "js-yaml": "^3.13.1",
     "length-prefixed-stream": "^1.5.2",
     "limitd-protocol": "github:limitd/protocol#v2.1.0",
-    "limitdb": "^3.0.0",
+    "limitdb": "github:Automattic/limitdb.git",
     "lodash": "^4.17.15",
     "readable-stream": "^2.3.6",
     "reconnect-net": "1.1.1",
